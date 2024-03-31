@@ -1,5 +1,4 @@
-#![github](https://github.com/NiklasSjodin/ATM-application/assets/146171251/7aa79eb0-e55c-448e-89c7-ea0e0df075ae)
- Simple ATM System
+Simple ATM System
 
 Welcome to the Simple ATM System repository! This C# console program simulates a basic ATM system with deposit, withdrawal, and balance check functionalities.
 
